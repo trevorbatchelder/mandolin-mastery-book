@@ -1,0 +1,46 @@
+{
+ "name": "The Guide to Mandolin Mastery",
+ "short_name": "Mandolin Mastery",
+ "id": ".",
+ "start_url": ".",
+ "lang": "en",
+ "description": "An interactive mandolin method \u2014 the fretboard in fifths, chords and the chop, scales, double stops and tunes you can hear and practise.",
+ "display": "standalone",
+ "orientation": "any",
+ "categories": [
+  "education",
+  "music"
+ ],
+ "background_color": "#f6efe0",
+ "theme_color": "#f6efe0",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Learn",
+   "url": "./#learn"
+  },
+  {
+   "name": "Practice room",
+   "url": "./#practice"
+  },
+  {
+   "name": "Fretboard Lab",
+   "url": "./#lab"
+  },
+  {
+   "name": "Double stops",
+   "url": "./#double"
+  }
+ ]
+}
